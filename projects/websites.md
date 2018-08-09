@@ -13,7 +13,7 @@ Therefore, I'm keeping these websites the way they are. I do not see myself beco
 
 In 2014, I was offered to be a part of the Naab+Griggs campaign team, running for student body President/Vice President. The University of Cincinnati has about 45,000 students so their Student Government is large. Campaigning for the slate therefore requires a team of about 30 people and nice website. I took the offer, not only for the experience and fun, but because I believed these two guys to be great for the job.
 
-This was my first anything web-related, first time using Javascript/HTML/CSS/etc. So... it's honestly pretty bad code-wise. Not to mention the whole thing was made in about 2 weeks. I did not do any of the graphic design, all of that was done by the extremely talented [Kate Davis](davis2kh@gmail.com), which is why it at least looks very pretty. I learned an extraordinary amount about both web design and working in a team, and I'm extremely thankful for this experience.
+This was my first anything web-related, first time using Javascript/HTML/CSS/etc. So... it's honestly pretty bad code-wise. Not to mention the whole thing was made in about 2 weeks. I did not do any of the graphic design, all of that was done by the extremely talented [Kate Davis](mailto:davis2kh@gmail.com), which is why it at least looks very pretty. I learned an extraordinary amount about both web design and working in a team, and I'm extremely thankful for this experience.
 
 Also, we won!
 
@@ -25,7 +25,7 @@ The next year, I was offered again to be a part of the Phelps+Duncan campaign te
 
 This time around, we really crushed it. We had some excellent, excellent people in charge of marketing/design and had a [hilarious video go viral](https://www.youtube.com/watch?v=KbZHIuTrM5c).
 
-There were many learnings I took from the previous experience and applied to this one, and I'm much happier with the result (we spent 3 weeks on it this time around). I got into some JQuery here and started to see web design from a bit more perspective. Once again, all of the design was not done by myself but the extraordinarily talented [Meghan Eleniak](eleniama@mail.uc.edu) and I'm super thankful I got to be a part of the team.
+There were many learnings I took from the previous experience and applied to this one, and I'm much happier with the result (we spent 3 weeks on it this time around). I got into some JQuery here and started to see web design from a bit more perspective. Once again, all of the design was not done by myself but the extraordinarily talented [Meghan Eleniak](mailto:eleniama@mail.uc.edu) and I'm super thankful I got to be a part of the team.
 
 We won this time as well!
 
