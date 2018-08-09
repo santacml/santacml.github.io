@@ -5,7 +5,7 @@ title: 'Student Groups'
 
 When not studying or working, I spend a bunch of time in a few student groups.
 
-They're environments unlike any other - stakes can be either soul-crushingly high or nonexistent, they are volunteer organizations which has massive implications, they both reflect bits of the real world and also live in a bubble, and students both love and hate them.
+They're environments unlike any other - stakes can be either soul-crushingly high or nonexistent, some people devote their lives to them and some are there for their resume, they are volunteer organizations, and they both reflect bits of the real world and also live in a bubble.
 
 Below you can find summaries of my involvement in a few organizations!
 
@@ -19,9 +19,9 @@ We've got a lot cooking, most notably a hack-day event partnering with ACM. Be s
 
 The CEAS Tribunal can be thought of as the Engineering-specific Student Government (every college has a Tribunal). This group is unique on our campus and nationally as they run the career fair, a huge event attracting more than 2,000 students every semester. Because of this, the group is quite large and can afford a large number of other events to benefit the student body.
 
-I was able to serve as Technology chair, where I made small updates to [the website](https://tribunal.uc.edu), which uses drupal with a custom theme as a backend. My larger objective was an overhaul to the career fair sign-in page. When students come to the fair, they sign-in on some old laptops we have. Because so many students come, the page needs to be _fast_, and fault-tolerant. I'm happy to say the new page I created works extremely well and saves the data entered.
+I was able to serve as Technology chair, where I made small updates to [the website](https://tribunal.uc.edu), which uses drupal with a custom theme as a backend. My larger objective was an overhaul to the career fair sign-in page. When students come to the fair, they sign-in on some old laptops we have. Because so many students come, the page needs to be _fast_, and fault-tolerant. I'm happy to say the new page I created works extremely well and saves the data entered. Additionally, I also made an RSVP page so that students can sign up before coming to the fair, streamlining the process further.
 
-I also served as Chief of Staff, which is a kind of VP-level position. The position was new, so a lot of what I did was trying to figure out the identity of what it would do. Mostly, however, I spent a lot of time figuring out what direction the group will go in and spending time in meetings voting on bills.
+I also served as Chief of Staff, which is a kind of VP-level position. The position was new, so a lot of what I did was trying to figure out the identity of what it would do. Honestly, I did not do a whole lot! I tried a few projects, but they never really panned out. This experience was invaluable as it was my first time really trying to "manage" other people. I got to see the management point of view early on, and fail at it, which I've grown from.
 
 #### Student Government
 
@@ -29,4 +29,8 @@ Content coming soon!
 
 #### Student Government Campaigns
 
-Content coming soon!
+I talk about these campaigns on my website page in more detail, but I have been a part of two student government President/Vice President campaigns.
+
+During these two-week sprints, students put their lives on the line for their classmates. It's an extremely stressful experience putting up posters, standing on the street, and making speeches, especially considering it usually happens in mid-February (10-30 degree Fahrenheit weather).
+
+They're some of my favorite memories in college as they build a large sense of camaraderie within the group. I'm so thankful to have been a part of both (and that we won both times)!
