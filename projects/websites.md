@@ -1,9 +1,29 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Websites'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+Context: 
+Below are archived versions of a few websites that I've built over time, hosted on github pages.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+There are a millions of ways I'd love to change these websites. There are dozens of bad practices... not to mention some ugly code and bloated files. Updating them, however, would almost be dishonest to me as I want to keep them more to show my presonal journey. Nobody starts out making websites with all the best practices and it's interesting to see the changes that I made over time. I will say that some editing had to be done - all of the code follows the wordpress format as I ended up using a wordpress plugin to export them into this format. They were not all originally wordpress sites. 
+
+Therefore, I'm keeping these websites the way they are. I do not see myself becoming a web programmer anyway, although it was extremely valuable to get some insight into the life of a web programmer. They are presented in the order they were built.
+
+Descriptions for these websites coming soon!
+
+#### Naab|Griggs
+
+[Naab|Griggs](https://santacml.github.io/naabgriggs/)
+
+#### Phelps|Duncan
+
+[Phelps|Duncan](https://santacml.github.io/phelpsduncan/)
+
+#### Next Lives Here Summit
+
+[Next Lives Here Summit](https://santacml.github.io/nextlivesheresummit/)
+
+#### Next Lives Here
+
+[Next Lives Here](https://santacml.github.io/nextliveshere/)

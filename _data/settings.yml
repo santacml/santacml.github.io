@@ -52,7 +52,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Compiler', folder: 'compiler', file: 'projects/compiler.html'}
+- {name: 'Hello_Compiler', folder: 'hello_compiler', file: 'projects/hello_compiler.html'}
 - {name: 'Co-Ops', folder: 'coops', file: 'projects/coops.html'}
 - {name: 'Research', folder: 'research', file: 'projects/research.html'}
 - {name: 'Websites', folder: 'websites', file: 'projects/websites.html'}
