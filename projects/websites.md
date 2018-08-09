@@ -12,13 +12,13 @@ Therefore, I'm keeping these websites the way they are. I do not see myself beco
 
 Descriptions for these websites coming soon!
 
-#### Naab|Griggs
+#### Naab + Griggs
 
-[Naab|Griggs](https://santacml.github.io/naabgriggs/)
+[Naab+Griggs](https://santacml.github.io/naabgriggs/)
 
-#### Phelps|Duncan
+#### Phelps + Duncan
 
-[Phelps|Duncan](https://santacml.github.io/phelpsduncan/)
+[Phelps+Duncan](https://santacml.github.io/phelpsduncan/)
 
 #### Next Lives Here Summit
 
