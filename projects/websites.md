@@ -5,11 +5,9 @@ title: 'Websites'
 
 Below are archived versions of a few websites that I've built over time, hosted on github pages. All code is available in repos on my github.
 
-There are a millions of ways I'd love to change these websites. There are dozens of bad practices... not to mention some ugly code and bloated files. Updating them, however, would almost be dishonest - I want to keep them the way they are to show my personal journey. Nobody starts out making websites with all the best practices and it's interesting to see the behavioral changes that I made over time. I will say I had to edit some of the code to follow the wordpress format as I ended up using a wordpress plugin to export them into github pages. They were not all originally wordpress sites.
+There are a millions of ways I'd love to change these websites. There are dozens of bad practices... not to mention some ugly code and bloated files. Updating them, however, would almost be dishonest - I want to keep them the way they are to show my personal journey. Nobody starts out making websites with all the best practices and it's interesting to see the behavioral changes that I made over time. The code follows a Wordpress format as I used a Wordpress plugin to export them as packages to Github Pages.
 
 Therefore, I'm keeping these websites the way they are. I do not see myself becoming a web programmer anyway, although it was extremely valuable to get some insight into the life of a web programmer. They are presented in the order they were built.
-
-Descriptions for these websites coming soon!
 
 #### Naab + Griggs
 
