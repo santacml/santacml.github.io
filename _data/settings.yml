@@ -25,7 +25,7 @@ seo:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics-ua: 'UA-112060364-3'
+# google-analytics-ua: 'UA-112060364-3'
 
 #-------------------------------
 # Disqus Section
@@ -52,11 +52,11 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Websites', folder: 'websites', file: 'projects/websites.html'}
 - {name: 'Compiler', folder: 'compiler', file: 'projects/compiler.html'}
-- {name: 'Research', folder: 'research', file: 'projects/research.html'}
-- {name: 'Student Groups', folder: 'studentgroups', file: 'projects/studentgroups.html'}
 - {name: 'Co-Ops', folder: 'coops', file: 'projects/coops.html'}
+- {name: 'Research', folder: 'research', file: 'projects/research.html'}
+- {name: 'Websites', folder: 'websites', file: 'projects/websites.html'}
+- {name: 'Student Groups', folder: 'studentgroups', file: 'projects/studentgroups.html'}
 
 #-------------------------------
 # Contact Section
