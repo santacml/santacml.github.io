@@ -14,11 +14,11 @@ Descriptions for these websites coming soon!
 
 #### Naab + Griggs
 
-[Naab+Griggs](https://santacml.github.io/naabgriggs/)
+[NaabGriggs](https://santacml.github.io/naabgriggs/)
 
 #### Phelps + Duncan
 
-[Phelps+Duncan](https://santacml.github.io/phelpsduncan/)
+[PhelpsDuncan](https://santacml.github.io/phelpsduncan/)
 
 #### Next Lives Here Summit
 
