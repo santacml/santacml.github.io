@@ -3,7 +3,6 @@ layout: post
 title: 'Websites'
 ---
 
-Context: 
 Below are archived versions of a few websites that I've built over time, hosted on github pages.
 
 There are a millions of ways I'd love to change these websites. There are dozens of bad practices... not to mention some ugly code and bloated files. Updating them, however, would almost be dishonest to me as I want to keep them more to show my presonal journey. Nobody starts out making websites with all the best practices and it's interesting to see the changes that I made over time. I will say that some editing had to be done - all of the code follows the wordpress format as I ended up using a wordpress plugin to export them into this format. They were not all originally wordpress sites. 
