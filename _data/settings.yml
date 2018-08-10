@@ -39,23 +39,24 @@ disqus:
 # About Section
 
 about: |
-  #### What is this place?
+  #### Who are you?
 
   Hello!
 
-  My name is Michael Santacoce, and I'm a 5th year student at the University of Cincinnati, studying for a Master's in Computer Science and a Bacherlors in Computer Engineering.
+  My name is Michael Santacoce, and I'm a 5th year student at the University of Cincinnati, studying for a Master's in Computer Science and a Bachelor's in Computer Engineering.
 
-  On this site you can find things that I've worked on, both professionally and for fun! It's currently a work in progress, so be sure to visit at a later date for more content.
-
+  On this site you can find things that I've worked on, both professionally and for fun. It's always going to be a work in progress, so be sure to visit at a later date for more content.
 
   <img src="../assets/img/michaelsantacroce.jpg" alt="" style="width: 70%; display: block; margin:auto;"/>
 
-contact: |
+Contact: |
   #### How do I reach you?
 
   Please contact me via email at [santacml@mail.uc.edu](mailto:santacml@mail.uc.edu) for any questions or requests.
 
-  Also be sure to visit my [github page](https://github.com/santacml/)!
+  Also be sure to visit my [Github page](https://github.com/santacml/)!
+
+
 
 
 #-------------------------------
