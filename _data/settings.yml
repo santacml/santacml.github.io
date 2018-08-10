@@ -43,12 +43,12 @@ about: |
 
   Hello!
 
-  My name is Michael Santacoce, and I'm a 5th year student at the University of Cincinnati, working for a Master's in Computer Science and a Bacherlors in Computer Engineering.
+  My name is Michael Santacoce, and I'm a 5th year student at the University of Cincinnati, studying for a Master's in Computer Science and a Bacherlors in Computer Engineering.
 
   On this site you can find things that I've worked on, both professionally and for fun! It's currently a work in progress, so be sure to visit at a later date for more content.
 
 
-  <img src="../assets/img/michaelsantacroce.jpg" alt="" style="width: 70%;"/>
+  <img src="../assets/img/michaelsantacroce.jpg" alt="" style="width: 70%; display: block; margin:auto;"/>
 
 contact: |
   #### How do I reach you?
