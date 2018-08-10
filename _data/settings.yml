@@ -38,8 +38,7 @@ disqus:
 #-------------------------------
 # About Section
 
-about: >
-  #### What is this place?
+about: "#### What is this place?
 
   ![]( {{ site.github.url }}/assets/img/michaelsantacroce.jpg )
 
@@ -48,13 +47,13 @@ about: >
   My name is Michael Santacoce, and I'm a 5th year student at the University of Cincinnati, working for a Master's in Computer Science and a Bacherlors in Computer Engineering.
 
   On this site you can find things that I've worked on, both professionally and for fun! It's currently a work in progress, so be sure to visit at a later date for more content.
-
-contact: >
-  #### How do I reach you?
+  "
+contact: "#### How do I reach you?
 
   Please contact me via email at [santacml@mail.uc.edu](mailto:santacml@mail.uc.edu) for any questions or requests.
 
   Also be sure to visit my [github page](https://github.com/santacml/)!
+  "
 
 #-------------------------------
 # Work Section
