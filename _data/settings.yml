@@ -39,9 +39,9 @@ disqus:
 # About Section
 
 about: >
-  #### Michael Santacroce's Work
+  #### What is this place?
 
-  <img src="url({{ site.github.url }}/assets/img/michaelsantacroce.jpg)" alt="Picture of me">
+  ![]( {{ site.github.url }}/assets/img/michaelsantacroce.jpg )
 
   Hello!
 
@@ -50,7 +50,7 @@ about: >
   On this site you can find things that I've worked on, both professionally and for fun! It's currently a work in progress, so be sure to visit at a later date for more content.
 
 contact: >
-  #### Contact
+  #### How do I reach you?
 
   Please contact me via email at [santacml@mail.uc.edu](mailto:santacml@mail.uc.edu) for any questions or requests.
 
