@@ -2,8 +2,8 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'Portfolio', url: ''}
+#- {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -41,9 +41,13 @@ disqus:
 about: >
   #### Michael Santacroce's Work
 
-  On this site you can find things that I've worked on, both professionally and for fun!
+  <img src="url({{ site.github.url }}/assets/img/michaelsantacroce.jpg)" alt="Picture of me">
 
-  It's currently a work in progress, so be sure to visit at a later date for more content.
+  Hello!
+
+  My name is Michael Santacoce, and I'm a 5th year student at the University of Cincinnati, working for a Master's in Computer Science and a Bacherlors in Computer Engineering.
+
+  On this site you can find things that I've worked on, both professionally and for fun! It's currently a work in progress, so be sure to visit at a later date for more content.
 
 contact: >
   #### Contact
@@ -55,7 +59,7 @@ contact: >
 #-------------------------------
 # Work Section
 
-Work:
+projects:
 - {name: 'Hello_Compiler', folder: 'hello_compiler', file: 'projects/hello_compiler.html'}
 - {name: 'Co-Ops', folder: 'coops', file: 'projects/coops.html'}
 - {name: 'Research', folder: 'research', file: 'projects/research.html'}
