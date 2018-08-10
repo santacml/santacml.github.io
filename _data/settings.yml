@@ -55,7 +55,7 @@ contact: >
 #-------------------------------
 # Work Section
 
-projects:
+Work:
 - {name: 'Hello_Compiler', folder: 'hello_compiler', file: 'projects/hello_compiler.html'}
 - {name: 'Co-Ops', folder: 'coops', file: 'projects/coops.html'}
 - {name: 'Research', folder: 'research', file: 'projects/research.html'}
