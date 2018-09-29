@@ -5,15 +5,18 @@ title: 'Student Groups'
 
 When not studying or working, I spend a bunch of time in a few student groups.
 
-They're environments unlike any other - stakes can be either soul-crushingly high or nonexistent, some people devote their lives to them and some are there for their resume, they are volunteer organizations, and they both reflect bits of the real world and also live in a bubble.
+They're environments unlike any other - stakes can be either soul-crushingly high or nonexistent, some people devote their lives to them while others let them become stagnant, they are volunteer organizations, and they both reflect bits of the real world while also living in a bubble.
 
 Below you can find summaries of my involvement in a few organizations!
 
 #### IEEE @ UC
 
-I'm currently president of the IEEE chapter at UC.
+I'm currently president of the IEEE chapter at UC - our website can be [found here](ieee.uc.edu). 
 
-We've got a lot cooking, most notably a hack-day event partnering with ACM. Be sure to [check it out here!](https://makeuc.io)
+We've got a lot cooking, most notably a hack-day event partnering with ACM. Be sure to [check it out here!](https://makeuc.io) Our main goal with MakeUC is to promote integration of hardware and software, knowledge which often gets silo'd into specific people or groups. 
+
+I'm extremely excited for the event! Not only is it the event's debut, but it is the brainchild of myself and a couple others. We've also purchased 13 arduino kits with a bunch of supplies for students to use during the event. 
+
 
 #### College of Engineering and Applied Science Tribunal
 
@@ -25,7 +28,11 @@ I also served as Chief of Staff, which is a kind of VP-level position. The posit
 
 #### Student Government
 
-Content coming soon!
+Student Government at the University of Cincinnati consists of a Senate, President/Vice President, Cabinet, and more, modeled after the U.S. government. There are various committees for differing tasks such as Sustainability, and I served on the Campus Life Committee for 3 years.
+
+Campus Life was committed to improving the student experience at the University, mainly by hosting various events. I like to think of it as the "soul" of Student Government, a place to really get any cool project off the ground. During my time I assisted with various projects and created my own, called Staff Appreciation. Our goal was to say "thanks" to all the service staff at the University. To do this, we got 400 cards and got students to hand write thank you notes to each staff member individually. The event itself consisted of distributing the cards, and we partnered with the University to also have some food/fun activities.
+
+In addition, my main goal was also to separate a process called "Co-Sponsorship" from the committee. The process was used to allocate about $5,000 each year from Student Government to new/relatively new events to help them get off the ground. These events could be anything that was open to the student body and that we felt was good for the students. My view, however, was that while the process was great, it didn't really belong in the committee itself. Therefore, I spent a bunch of time as chair of Campus Life to create a new committee, called Co-Sponsorship Committee. The bill was eventually passed, allowing both committees to better serve their purpose.
 
 #### Student Government Campaigns
 

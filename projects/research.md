@@ -3,6 +3,8 @@ layout: post
 title: 'Research'
 ---
 
-At the University of Cincinnati, I do research with neural networks for detecting malware.
+I'm currently working towards a Master's in Computer Science (with a Computer Engineering undergrad). To this end, I am doing research to use neural networks for malware detection.
 
-More content will be put here very soon - my first publication (conference proceedings from NAECON) comes out in a couple months!
+I will be updating this page soon. Unfortunately, the research itself is confidential until the work is published. I have one conference publication coming out soon (proceedings from NAECON), and I'm hoping to get a journal publication soon as well!
+
+
