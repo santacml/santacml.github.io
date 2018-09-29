@@ -11,7 +11,7 @@ Below you can find summaries of my involvement in a few organizations!
 
 #### IEEE @ UC
 
-I'm currently president of the IEEE chapter at UC - our website can be [found here](ieee.uc.edu). 
+I'm currently president of the IEEE chapter at UC - our website can be [found here](https://ieee.uc.edu). 
 
 We've got a lot cooking, most notably a hack-day event partnering with ACM. Be sure to [check it out here!](https://makeuc.io) Our main goal with MakeUC is to promote integration of hardware and software, knowledge which often gets silo'd into specific people or groups. 
 
