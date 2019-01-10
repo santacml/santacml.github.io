@@ -7,7 +7,7 @@ I'm currently working towards a Master's in Computer Science (with a Computer En
 
 We have just published our first research paper, available [here](https://ieeexplore.ieee.org/document/8556657) and the code is on Github! I am beyond excited that we were able to present our work at NAECON.
 
-Since then, a LOT of work has been done to expand on that paper. I hope to publish a full journal article soon1
+Since then, a LOT of work has been done to expand on that paper. I hope to publish a full journal article soon!
 
 
 
