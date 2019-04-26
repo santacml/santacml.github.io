@@ -9,18 +9,18 @@ One day, halfway through the last semester of my undergraduate/M.S. college care
 
 It came as a combination of a few thoughts that had been floating around in my mind:
 
-* IEEE at the University of Cincinnati struggles with name recognition, or being known for a "thing"
+* IEEE at UC struggles with name recognition, or being known for a "thing"
 * Nationally and globally, IEEE publishes many prestigious and renowned journals, magazines, and conference proceedings
-* Students at UC do amazing work for many things like classes (especially graduate), Co-Ops, Senior Design, research, student orgs, and so on
-* I had recently written 200+ pages with LaTeX for my thesis, papers, reports, etc. at this point
+* Students at UC do amazing work across the board, for classes (especially graduate), Co-Ops, Senior Design, research, and student orgs
+* I had written 200+ pages with LaTeX for my thesis, papers, reports, etc. in the last semester
 
 Combining these thoughts naturally led to a nugget of an idea: to emulate what IEEE nationally does and create a student magazine that highlights work students do.
 
-#### Story of Creation
+#### Creating the Magazine
 
-The only issue was that I had thought of it so late. It was around the end of February or beginning of March, so we had to move fast. Ideally, such a magazine would accept submissions and have them peer-reviewed. Eventually, a whole framework could be set up... many possibilities exist. In this instance, however, we needed a minimum-viable-product of sorts. Something that would get the ball rolling and set the tone for the future.
+The only issue was that I had thought of it so late. It was around the end of February or beginning of March, so we had to move fast. Ideally, such a magazine would accept submissions and have them peer-reviewed. Eventually, a whole framework could be set up... in this instance, however, we needed a minimum-viable-product of sorts. Something that would get the ball rolling and set the tone for the future.
 
-At this point, I had learned a great deal from being president of UC at IEEE. One big lesson for myself was that I am not the greatest at delegation; I do well at managing my own time and figuring out what steps I need to take to finish a project, but giving tasks to others is not my strong suit (though I am getting better!) With this knowledge, however, I sat down and figured out what needed to be done and who to enlist. 
+At this point, I had learned a great deal from being president of UC at IEEE. One big lesson for myself was that I am not the greatest at delegation; I do well at managing my own time and figuring out what steps I need to take to finish a project, but giving tasks to others is not my strong suit (though I am getting better!) With this knowledge, I sat down and figured out what needed to be done and who to enlist. 
 
 The most important task was to find authors. I reached out to specific people that I knew I could count on to write something interesting, quickly. It is unfortunate we did not have time to set up a place to submit, but it would be asking too much on too short a timeframe. 
 
