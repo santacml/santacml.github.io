@@ -3,10 +3,7 @@ layout: post
 title: 'EECS Student Magazine'
 ---
 
-#### First-Ever Issue of the EECS Student Magazine
-The magazine is located [here](santacml.github.io/assets/April_Issue_IEEE_final.pdf)
-
-#### What is the magazine?
+#### Find the First Issue [here](santacml.github.io/assets/April_Issue_IEEE_final.pdf)!
 
 One day, halfway through the last semester of my undergraduate/M.S. college career, a lightbulb went off. There should be a department of Electrical Engineering and Computer Science student magazine!
 
@@ -19,6 +16,8 @@ It came as a combination of a few thoughts that had been floating around in my m
 
 Combining these thoughts naturally led to a nugget of an idea: to emulate what IEEE nationally does and create a student magazine that highlights work students do.
 
+#### Story of Creation
+
 The only issue was that I had thought of it so late. It was around the end of February or beginning of March, so we had to move fast. Ideally, such a magazine would accept submissions and have them peer-reviewed. Eventually, a whole framework could be set up... many possibilities exist. In this instance, however, we needed a minimum-viable-product of sorts. Something that would get the ball rolling and set the tone for the future.
 
 At this point, I had learned a great deal from being president of UC at IEEE. One big lesson for myself was that I am not the greatest at delegation; I do well at managing my own time and figuring out what steps I need to take to finish a project, but giving tasks to others is not my strong suit (though I am getting better!) With this knowledge, however, I sat down and figured out what needed to be done and who to enlist. 
@@ -29,7 +28,7 @@ With our authors writing, I then had some help from some amazing people. Dr. Cah
 
 Once we got the articles, we formatted them into LaTeX, and then it was a matter of grammar edits, more and more formatting, and publishing!
 
-#### Summary
+#### Conclusion
 
 This first issue was extremely hectic not only due to the short timeline but because we were started from scratch. Now, the template is set up, and the magazine had a strong first issue. So, so many things can be done from here. A CEAS magazine? Partnerships with companies? It is in the hands of the future IEEE executive members and the future is bright. 
 
