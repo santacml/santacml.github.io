@@ -3,7 +3,7 @@ layout: post
 title: 'EECS Student Magazine'
 ---
 
-#### Find the First Issue [here](santacml.github.io/assets/April_Issue_IEEE_final.pdf)!
+#### Find the First Issue [here](https://santacml.github.io/assets/April_Issue_IEEE_final.pdf)!
 
 One day, halfway through the last semester of my undergraduate/M.S. college career, a lightbulb went off. There should be a department of Electrical Engineering and Computer Science student magazine!
 
