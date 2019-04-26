@@ -43,7 +43,7 @@ about: |
 
   Hello!
 
-  My name is Michael Santacoce, and I'm a 5th year student at the University of Cincinnati, studying for a Master's in Computer Science and a Bachelor's in Computer Engineering.
+  My name is Michael Santacoce, and I'm a 5th year student at the University of Cincinnati, studying for a Master's in Computer Engineering and a Bachelor's in Computer Engineering.
 
   On this site you can find things that I've worked on, both professionally and for fun. It's always going to be a work in progress, so be sure to visit at a later date for more content.
 
@@ -68,6 +68,7 @@ projects:
 - {name: 'Hello_Compiler', folder: 'hello_compiler', file: 'projects/hello_compiler.html'}
 - {name: 'Co-Ops', folder: 'coops', file: 'projects/coops.html'}
 - {name: 'Research', folder: 'research', file: 'projects/research.html'}
+- {name: 'EECS Student Magazine', folder: 'magazine', file: 'projects/magazine.html'}
 - {name: 'Websites', folder: 'websites', file: 'projects/websites.html'}
 - {name: 'Student Groups', folder: 'studentgroups', file: 'projects/studentgroups.html'}
 
