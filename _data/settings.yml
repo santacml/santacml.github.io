@@ -68,6 +68,7 @@ projects:
 - {name: 'Hello_Compiler', folder: 'hello_compiler', file: 'projects/hello_compiler.html'}
 - {name: 'Co-Ops', folder: 'coops', file: 'projects/coops.html'}
 - {name: 'Research', folder: 'research', file: 'projects/research.html'}
+- {name: 'Optimal Moon Landing', folder: 'dynamic_optimization', file: 'projects/dynamic_optimization.html'}
 - {name: 'EECS Student Magazine', folder: 'magazine', file: 'projects/magazine.html'}
 - {name: 'Websites', folder: 'websites', file: 'projects/websites.html'}
 - {name: 'Student Groups', folder: 'studentgroups', file: 'projects/studentgroups.html'}
