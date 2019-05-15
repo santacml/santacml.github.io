@@ -10,7 +10,7 @@ The starting point for an optimal control problem is to satisfy the following co
 
 ![Hardcore Maths](https://santacml.github.io/assets/img/optimality.png)
 
-All these symbols are probably absolutely meaningless to you unless you have worked in optimal control, however, to some people, they mean decades of work.
+All these symbols are probably absolutely meaningless to you unless you have worked in optimal control, however, to some people, they mean decades of work. A fantastic resources [is located here](http://www.scholarpedia.org/article/Optimal_control#Formulation_of_optimal_control_problems)
 
 #### Final Project
 
@@ -18,5 +18,5 @@ Anyway, the class wrapped up with a final project of our choosing. In the end, I
 
 For the project, I ended up not being able to analytically derive a solution, but found a solution computationally. This result was quite interesting and seems common in the field. These problems are so large and complex that sometimes one might run into an integral that just cannot be done, or find a set of equations with infinite solutions. 
 
-I greatly enjoyed the project and the course and I hope to someday work with it more. It combines some of my favorite subjects - controls, optimization, and programming.
+I greatly enjoyed the project and the course and I hope to someday work with it more. It combines some of my favorite subjects - controls, optimization, and programming. In the write-up, I mention that I looked deeply at some other topics. In particular, I was highly interested in work similar to that done [with spiking neurons](https://pdfs.semanticscholar.org/fa43/afcce25aef82b702f963c83576d302221e00.pdf) or possibly, with even more ambition, [optimal training of neural networks](https://arxiv.org/abs/1803.01299). Unfortunately, at this time, I was extremely overloaded with work to finish my degree, so I chose a project that was a bit easier... perhaps I will look at these things in the future!
 
