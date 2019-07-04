@@ -8,7 +8,7 @@ At the University of Cincinnati, we do Co-Ops every other semester. I've gotten 
 #### Intuit, San Diego
 ##### (May 2018 - August 2018)
 
-During the summer of 2018, I had the opportunity to work with Intuit on a security team. The experience was absolutely amazing, not only because I was fortunate to be in San Diego, but because of the people and company. My team was going through some organizational changes at the time which meant less programming time as compared to other co-ops, however, I learned a great deal about how security is structured at an enterprise level (especially in such a vital area, like financial data). In addition, I gained a large amount of experience with AWS and GCP, with special considerations in relation to security. 
+During the summer of 2018, I had the opportunity to work with Intuit on a security team. The experience was absolutely amazing, not only because I was fortunate to be in San Diego, but because of the people and company. My team was going through some organizational changes at the time which meant less programming time as compared to other co-ops, however, I learned a great deal about how security is structured at an enterprise level (especially in such a vital area with financial data). In addition, I gained a large amount of experience with AWS and GCP, with special considerations in relation to security. 
 
 * Analyzed security-related data with python to assist in identifying candidates for root cause analysis investigations 
 * Compiled results of data analysis into a sustainable dashboard and concrete items to address for security 
