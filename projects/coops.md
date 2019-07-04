@@ -8,9 +8,12 @@ At the University of Cincinnati, we do Co-Ops every other semester. I've gotten 
 #### Intuit, San Diego
 ##### (May 2018 - August 2018)
 
-During this summer, I had the opportunity to work with Intuit.
+During the summer of 2018, I had the opportunity to work with Intuit on a security team. The experience was absolutely amazing, not only because I was fortunate to be in San Diego, but because of the people and company. My team was going through some organizational changes at the time which meant less programming time as compared to other co-ops, however, I learned a great deal about how security is structured at an enterprise level (especially in such a vital area, like financial data). In addition, I gained a large amount of experience with AWS and GCP, with special considerations in relation to security. 
 
-In fact, it's still in progress, so I will get back to this one!
+* Analyzed security-related data with python to assist in identifying candidates for root cause analysis investigations 
+* Compiled results of data analysis into a sustainable dashboard and concrete items to address for security 
+* Obtained training on GCP and AWS and their security considerations to educate teams on security policies 
+* Participated in strategic planning sessions and contributed ideas towards the future of security 
 
 #### GE Aviation, Grand Rapids
 ##### (August 2017 - December 2017)
