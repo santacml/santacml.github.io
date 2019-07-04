@@ -7,7 +7,7 @@ animation: "bounceOut"
 # accent: "#c99065"
 accent: "#ff8949"
 # accent-color: "#BD5248"
-accent-color: "#ff8949"
+accentColor: "#ff8949"
 
 # textColor: "#666"
 textColor: "#907167"
