@@ -5,6 +5,17 @@ title: 'Research'
 
 At UC, I was able to do a Bachelor's and a Master's of Science in Computer Engineering. For the thesis, did research on using neural networks for malware detection. I found that I absolutely love research - it is some of the most rewarding work I have ever done.
 
+#### Detecting Malware Code as Video With Compressed, Time-Distributed Neural Networks
+##### IEEE Access
+
+This, by far, is the paper I'm most excited about from my time at UC. Being published in an open access journal with a good impact factor, I am optimistic the paper might get some good traction. It's [available here](https://ieeexplore.ieee.org/abstract/document/9145735).
+
+While in retrospect it could use a more exciting name, the journal article summarizes the main highlights of my research. The concept of Malware as Video, the best networks that we were able to build, comparisons to seminal works, and Node-Distance Pruning. Our results out-preform all works that we were able to find while staying lean and extraordinarily practical.
+
+In addition, out of my work, I believe Node-Distance Pruning may actually be one of the more important things I've done. I found it to be a highly effective algorithm and may shed new light on where to go with pruning neural networks. As a future project I would like to submit a PR to get Node-Dist integrated into a more popular neural network library.
+
+Overall, the paper is incredibly gratifying. It feels beyond exciting that the culmination of my work out is there, in a format for others to read and hopefully build on. So many iterations and so much work went into this final paper and I am glad it was able to be published.
+
 #### Neural Classification of Malware-As-Video with Considerations for In-Hardware Inferencing
 ##### M.S. Thesis
 
@@ -12,9 +23,14 @@ If you're interested in my work I highly recommend downloading my M.S. thesis, a
 
 I thoroughly enjoyed the process of assembling the work for, and writing, a thesis! 
 
-#### NAECON 2018
+#### A Foray Into Extracting Malicious Features from Executable Code with Neural Network Salience
+##### NAECON 2019
 
-We were fortunate to present a paper on neural network saliency and its relation to malware detection at NAECON 2018! The paper should be out in a couple months, and I will update this page then.
+Chronologically, the work that this paper came from happened last in my time at UC, though it ended up being published sooner due to long review times on the other papers. It is [available here](https://ieeexplore.ieee.org/abstract/document/9057859).
+
+I love this paper. It's highly interesting and offers a ton of future work possibilities. Essentially, with saliency, we can see what the networks found to be unique to malware or benign code. This is a fruitful result - what were the commands that were unique to malware or benign code? Can we use these code clusters for a different, faster classification method and cut out the networks altogether? How would saliency differ from Malware as Image methods as compared to Malware as Video?
+
+This short paper, in my mind, raises many interesting questions. It was a great, short project to wrap up my research with at UC as it leaves the door open for future work. There is still so much left to uncover with neural networks and I'm excited to see what the future brings.
 
 #### Detecting Malicious Assembly using Convolutional, Recurrent Neural Networks
 ##### ASTESJ
@@ -26,7 +42,7 @@ There are not many papers using recurrent neural networks in this way - our (my)
 In my eyes, the work should speak for itself, regardless of the journal it appears in. This paper was important for establishing that while recurrent neural networks can work for this solution, they are not at all necessary or optimal. I'm happy with how the paper came out!
 
 #### Detecting Malicious Assembly with Deep Learning
-##### NAECON 2017
+##### NAECON 2018
 
 Work began for my research by replicating the results of others with a simple approach, and the first paper we wrote based on that work was presented at NAECON in 2017. The paper is available [here](https://ieeexplore.ieee.org/document/8556657).
 

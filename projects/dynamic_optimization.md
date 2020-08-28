@@ -10,7 +10,7 @@ The starting point for an optimal control problem is to satisfy the following co
 
 ![Hardcore Maths](https://santacml.github.io/assets/img/optimality.png)
 
-All these symbols are probably absolutely meaningless to you unless you have worked in optimal control, however, to some people, they mean decades of work. A fantastic resources [is located here](http://www.scholarpedia.org/article/Optimal_control#Formulation_of_optimal_control_problems)
+These few equations are some of the deepest math I've gone into and I loved every second of it. A fantastic resources [is located here](http://www.scholarpedia.org/article/Optimal_control#Formulation_of_optimal_control_problems)
 
 #### Final Project
 
