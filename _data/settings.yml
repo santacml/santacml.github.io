@@ -66,6 +66,7 @@ contact: |
 
 projects:
 - {name: 'Research', folder: 'research', file: 'projects/research.html'}
+- {name: 'Self-Study', folder: 'selfstudy', file: 'projects/selfstudy.html'}
 - {name: 'Co-Ops', folder: 'coops', file: 'projects/coops.html'}
 - {name: 'Optimal Moon Landing', folder: 'dynamic_optimization', file: 'projects/dynamic_optimization.html'}
 - {name: 'Hello_Compiler', folder: 'hello_compiler', file: 'projects/hello_compiler.html'}
