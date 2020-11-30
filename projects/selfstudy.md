@@ -23,15 +23,15 @@ Presented as most recently read to first read.
 * P. P. Vaidyanathan, Multirate systems and filter banks. Delhi: Dorling Kindersley, 2006. 
 * S. Sastry, Nonlinear systems analysis, stability, and control. New York: Springer, 1999. 
 * H. K. Khalil, Nonlinear systems. Upper Saddle River, NJ: Prentice Hall, 2002. 
+* P. G. Drazin and R. S. Johnson, Solitons: an introduction. Cambridge: Cambridge Univ. Press, 2002. 
+* S. Wiggins, Introduction to applied nonlinear dynamical systems and chaos. New York: Springer, 1996. 
+* F. H. Clarke, Nonsmooth analysis and control theory. Springer, 2009. 
 
 #### Future Books
 
 Presented in order of interest reading next. Showing this partially for my own sake to keep track of my reading list, and also to show my future interests.
 
 * W. Schirotzek, Nonsmooth Analysis. Berlin: Springer, 2007. 
-* P. G. Drazin and R. S. Johnson, Solitons: an introduction. Cambridge: Cambridge Univ. Press, 2002. 
-* F. H. Clarke, Nonsmooth analysis and control theory. Springer, 2009. 
-* S. Wiggins, Introduction to applied nonlinear dynamical systems and chaos. New York: Springer, 1996. 
 * P. G. Ciarlet, Linear and nonlinear functional analysis with applications: with 401 problems and 52 figures. Philadelphia: Society for Industrial and Applied Mathematics, 2013. 
 * D. C. Kravvaritis and A. N. Yannacopoulos, Variational Methods in Nonlinear Analysis: With Applications in Optimization and Partial Differential Equations. Berlin: De Gruyter, 2020. 
 * Bačák Miroslav, Convex analysis and optimization in Hadamard spaces. Berlin: Walter de Gruyter GmbH &amp; Co. KG, 2014. 
