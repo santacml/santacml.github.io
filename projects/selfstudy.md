@@ -19,13 +19,13 @@ On this page, I'll put a list of the textbooks I've gone through so far and also
 
 Presented as most recently read to first read.
 
+* F. H. Clarke, Nonsmooth analysis and control theory. Springer, 2009. 
+* S. Wiggins, Introduction to applied nonlinear dynamical systems and chaos. New York: Springer, 1996. 
+* P. G. Drazin and R. S. Johnson, Solitons: an introduction. Cambridge: Cambridge Univ. Press, 2002. 
 * E. Kreyszig, Introductory functional analysis with applications. New York: John Wiley &amp; Sons, 1978.
 * P. P. Vaidyanathan, Multirate systems and filter banks. Delhi: Dorling Kindersley, 2006. 
-* S. Sastry, Nonlinear systems analysis, stability, and control. New York: Springer, 1999. 
 * H. K. Khalil, Nonlinear systems. Upper Saddle River, NJ: Prentice Hall, 2002. 
-* P. G. Drazin and R. S. Johnson, Solitons: an introduction. Cambridge: Cambridge Univ. Press, 2002. 
-* S. Wiggins, Introduction to applied nonlinear dynamical systems and chaos. New York: Springer, 1996. 
-* F. H. Clarke, Nonsmooth analysis and control theory. Springer, 2009. 
+* S. Sastry, Nonlinear systems analysis, stability, and control. New York: Springer, 1999. 
 
 #### Future Books
 
