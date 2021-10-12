@@ -26,18 +26,19 @@ Presented as most recently read to first read.
 * P. P. Vaidyanathan, Multirate systems and filter banks. Delhi: Dorling Kindersley, 2006. 
 * H. K. Khalil, Nonlinear systems. Upper Saddle River, NJ: Prentice Hall, 2002. 
 * S. Sastry, Nonlinear systems analysis, stability, and control. New York: Springer, 1999. 
+* W. Schirotzek, Nonsmooth Analysis. Berlin: Springer, 2007. 
+* J. R. Leigh, Functional analysis and linear control theory. Mineola (N.Y.): Dover, 2007. 
+* I. M. Gelfand, Fomine Sergueï Vasilievitch, and R. A. Silverman, Calculus of variations. Mineola, NY: Dover Publications, 2000. 
+* Haddad, Wassim M., and VijaySekhar Chellaboina. Nonlinear Dynamical Systems and Control: A Lyapunov-Based Approach. Princeton University Press, 2008. 
 
 #### Future Books
 
 Presented in order of interest reading next. Showing this partially for my own sake to keep track of my reading list, and also to show my future interests.
 
-* W. Schirotzek, Nonsmooth Analysis. Berlin: Springer, 2007. 
 * P. G. Ciarlet, Linear and nonlinear functional analysis with applications: with 401 problems and 52 figures. Philadelphia: Society for Industrial and Applied Mathematics, 2013. 
 * D. C. Kravvaritis and A. N. Yannacopoulos, Variational Methods in Nonlinear Analysis: With Applications in Optimization and Partial Differential Equations. Berlin: De Gruyter, 2020. 
 * Bačák Miroslav, Convex analysis and optimization in Hadamard spaces. Berlin: Walter de Gruyter GmbH &amp; Co. KG, 2014. 
 * G. Grimmett and D. Stirzaker, Probability and random processes. Oxford: Oxford University Press, 2009. 
-* J. R. Leigh, Functional analysis and linear control theory. Mineola (N.Y.): Dover, 2007. 
-* I. M. Gelfand, Fomine Sergueï Vasilievitch, and R. A. Silverman, Calculus of variations. Mineola, NY: Dover Publications, 2000. 
 * D. E. Dudgeon and R. M. Mersereau, Multidimensional digital signal processing. Englewood Cliffs N.J.: Prentice-Hall, 1984. 
 
 #### Reference Books
