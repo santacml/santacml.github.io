@@ -10,9 +10,9 @@ Here, I'll provide a short overview of each work and what I learned while workin
 
 ## Phi-2 and Phi-3
 
-Phi-2 and Phi-3 were an absolute blast to work on. I'm ecstatic about both what these models represent for the future of AI and about the reception of these models from the community.
+Phi-2 and Phi-3 were an absolute blast to work on. I'm ecstatic about both what these models represent for the future of AI and about the reception of these models by the community.
 
-To me, these models represent a shift for LLMs by putting a larger and larger emphasis on high-quality data and combining that with targeted synthetic data generation. 
+To me, these models represent a shift for LLMs by putting a larger emphasis on high-quality data, especially augmented with targeted synthetic data. 
 
 In my opinion, using the term "synthetic generation" doesn't quite do the data justice. I believe the future of synthetic generation for models entails thinking about generation in a new way - sculpting text samples over many rounds of iteration. This is beyond simply getting the response from a model to a fixed, single-round prompt. Instead, we can push a model to generate high-quality data from scratch about nearly anything.
 
