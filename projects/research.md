@@ -8,12 +8,11 @@ Please check out my [Google Scholar page](https://scholar.google.com/citations?u
 Here, I'll provide a short overview of each work and what I learned while working on it.
 
 
-<details>
-  <summary>Phi-2 and Phi-3</summary>
+## Phi-2 and Phi-3
 
 Phi-2 and Phi-3 were an absolute blast to work on. I'm ecstatic about both what these models represent for the future of AI and about the reception of these models from the community.
 
-These models represent a shift for LLMs by putting a larger and larger emphasis on high-quality data and combining that with targeted synthetic data generation. 
+To me, these models represent a shift for LLMs by putting a larger and larger emphasis on high-quality data and combining that with targeted synthetic data generation. 
 
 In my opinion, using the term "synthetic generation" doesn't quite do the data justice. I believe the future of synthetic generation for models entails thinking about generation in a new way - sculpting text samples over many rounds of iteration. This is beyond simply getting the response from a model to a fixed, single-round prompt. Instead, we can push a model to generate high-quality data from scratch about nearly anything.
 
@@ -24,12 +23,12 @@ Besides the technical details, it was invaluable for me to learn how to be a par
 To build models, we must blend engineering and research. Organizationally, this work is weird. Software engineering is radically different to more traditional engineering, AI research is radically different to more traditional research. Here, we need to successfully do both.
 
 
-</details>
 
-<details>
-  <summary>AI Platform</summary>
+## AI Platform
 
-After the "internal rotation", I transitioned to an internal applied research team known as AI Platform. On this team, I worked on many projects, ranging from direct product work to research. Out of this, helped with a few projects.
+
+
+After the "internal rotation", I transitioned to an internal applied research team known as AI Platform. On this team, I worked on many projects, ranging from direct product work to research.
 <!-- 
 #### Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences
 ##### Co-Author
@@ -55,11 +54,11 @@ Beyond this question, we had an additionally interesting finding - simply prunin
 
 Overall, I love this work, but in retrospect it could use a lot of love. Better experiments, more solid evidence, and following up on some obvious questions. Still, I'm proud of it overall, and it may be worth re-visiting this concept in the future.
 
-</details>
 
 
-<details>
-  <summary>Microsoft Research</summary>
+## Microsoft Research
+
+
 
 After graduating, I started at Microsoft as a SWE. Quickly, I realized I wanted to get back into research. However, this is much easier said than done without a PhD and I spent a long time trying to break into research without success.
 
@@ -77,10 +76,10 @@ We had even greater plans after this paper, from the [pilim repo](https://github
 
 However, in retrospect, I had bitten off more than I could chew at that time and did not accomplish many of these efforts. Overall, it was an incredible learning experience for me, and I'm forever grateful to Greg for providing me the room to try and grow.
 
-</details>
 
-<details>
-  <summary>Master's degree research at UC</summary>
+
+## Master's degree research at UC
+
 
 
 At UC, I was able to do a Bachelor's and a Master's of Science in Computer Engineering. For the thesis, did research on using neural networks for malware detection. I found that I absolutely love research - it is some of the most rewarding work I have ever done.
@@ -128,4 +127,3 @@ Work began for my research by replicating the results of others with a simple ap
 
 There are honestly a multitude of things I would change about that first paper. If I could rewrite it, I would tie in more sources, better present the results of the paper as the figures are lacking, more thoroughly test the networks in various ways, and re-word large portions of it for clarity. At the same time, everyone starts somewhere and I'm glad to have been able to write that conference paper at all. I learned much from this paper and believe that the results of that learning can be seen in the works above.
 
-</details>

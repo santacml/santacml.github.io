@@ -53,14 +53,14 @@ about: |
 
   On this site you can find things that I've worked on, both professionally and for fun.
 
-  <img src="../assets/img/michaelsantacroce.jpg" alt="" style="width: 70%; display: block; margin:auto;"/>
+  <img src="../assets/img/michaelsantacroce.jpg" alt="" style="width: 60%; display: block; margin:auto;"/>
 
 
 
 contact: |
   #### How do I reach you?
 
-  Please contact me via email at [santacml@mail.uc.edu](mailto:santacml@mail.uc.edu) for any questions or requests.
+  Please contact me via email at [msantacr23@gmail.com](mailto:msantacr23@gmail.com) for any questions or requests.
 
   Also be sure to visit my [Github page](https://github.com/santacml/)!
 
@@ -72,7 +72,7 @@ contact: |
 
 projects:
 - {name: 'Research', folder: 'research', file: 'projects/research.html'}
-- {name: 'Self-Study', folder: 'selfstudy', file: 'projects/selfstudy.html'}
+# - {name: 'Self-Study', folder: 'selfstudy', file: 'projects/selfstudy.html'}
 - {name: 'Co-Ops', folder: 'coops', file: 'projects/coops.html'}
 - {name: 'Optimal Moon Landing', folder: 'dynamic_optimization', file: 'projects/dynamic_optimization.html'}
 - {name: 'Hello_Compiler', folder: 'hello_compiler', file: 'projects/hello_compiler.html'}
